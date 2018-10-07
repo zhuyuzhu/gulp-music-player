@@ -1,0 +1,25 @@
+{
+  "name": "gulp-music-player",
+  "version": "1.0.0",
+  "description": "gulp前端自动化构建工具写音乐播放器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuyuzhu/gulp-music-player.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuyuzhu/gulp-music-player/issues"
+  },
+  "homepage": "https://github.com/zhuyuzhu/gulp-music-player#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-htmlclean": "^2.7.22",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-uglify": "^3.0.1"
+  }
+}
